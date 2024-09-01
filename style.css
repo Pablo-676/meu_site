@@ -1,0 +1,50 @@
+body {
+    background-color: #f2f2f2; /* Cor de fundo da página */
+    font-family: 'Open Sans', sans-serif; /* Fonte padrão */
+    font-size: 18px; /* Tamanho da fonte */
+    margin: 20px; /* Margem ao redor do conteúdo */
+  }
+  
+  header {
+    background-color: #3498db; /* Cor de fundo do cabeçalho */
+    color: #fff; /* Cor do texto no cabeçalho */
+    padding: 20px; /* Espaçamento interno do cabeçalho */
+    text-align: center; /* Centraliza o texto no cabeçalho */
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column; /* Exibe os elementos em coluna */
+    align-items: center; /* Centraliza os elementos no eixo horizontal */
+    padding: 20px; /* Espaçamento interno */
+  }
+  
+  section {
+    background-color: #fff; /* Cor de fundo das seções */
+    padding: 20px; /* Espaçamento interno das seções */
+    margin-bottom: 20px; /* Espaçamento entre as seções */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra ao redor das seções */
+  }
+  
+  h1, h2 {
+    color: #3498db; /* Cor dos títulos */
+  }
+  
+  button {
+    background-color: #3498db; /* Cor de fundo dos botões */
+    color: #fff; /* Cor do texto dos botões */
+    padding: 10px 20px; /* Espaçamento interno dos botões */
+    border: none; /* Remove bordas dos botões */
+    border-radius: 5px; /* Bordas arredondadas dos botões */
+    cursor: pointer; /* Cursor em formato de ponteiro ao passar sobre o botão */
+  }
+  
+  button:hover {
+    background-color: #2ecc71; /* Cor de fundo do botão ao passar o mouse */
+  }
+  
+  img {
+    border-radius: 50%; /* Imagem circular */
+    margin-bottom: 20px; /* Espaçamento abaixo da imagem */
+  }
+  
